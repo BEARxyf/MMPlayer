@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MMPlayer",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MMPlayer",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "MMThread",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MMThread",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "MMAV",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MMAV",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "MMPlayer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "MMAV::@6677401b109558446614",
+					"jsonFile" : "target-MMAV-Debug-92dc0f5fc2efebbce1ba.json",
+					"name" : "MMAV",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MMPlayer::@4dd7da4f67542ceea480",
+					"jsonFile" : "target-MMPlayer-Debug-d4037dd6033cf054e9e3.json",
+					"name" : "MMPlayer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MMThread::@c7532e47e0a7c893fd83",
+					"jsonFile" : "target-MMThread-Debug-cbcf36c75fd20fb425ec.json",
+					"name" : "MMThread",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug",
+		"source" : "D:/cmakeProject/MMPlayer/MMPlayer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

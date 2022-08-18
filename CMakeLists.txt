@@ -4,6 +4,10 @@
 cmake_minimum_required (VERSION 3.8)
 
 project ("MMPlayer")
-
+#add_definitions("-DUNICODE" "-D_UNICODE")
+#set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT MMPlayer)
 # 包含子项目。
 add_subdirectory ("MMPlayer")
+add_subdirectory ("MMThread")
+add_subdirectory ("MMAV")
+

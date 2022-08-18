@@ -3,3 +3,9 @@ D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/CMakeFiles/rebuild_cache.d
 D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMPlayer/CMakeFiles/MMPlayer.dir
 D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMPlayer/CMakeFiles/edit_cache.dir
 D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMPlayer/CMakeFiles/rebuild_cache.dir
+D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMThread/CMakeFiles/MMThread.dir
+D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMThread/CMakeFiles/edit_cache.dir
+D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMThread/CMakeFiles/rebuild_cache.dir
+D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMAV/CMakeFiles/MMAV.dir
+D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMAV/CMakeFiles/edit_cache.dir
+D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMAV/CMakeFiles/rebuild_cache.dir

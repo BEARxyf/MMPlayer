@@ -35,6 +35,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMPlayer/cmake_install.cmake")
+  include("D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMThread/cmake_install.cmake")
+  include("D:/cmakeProject/MMPlayer/MMPlayer/out/build/x64-Debug/MMAV/cmake_install.cmake")
 
 endif()
 
